@@ -1,0 +1,164 @@
+2026-04-19 15:05:55,045 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:13:37,329 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 15:13:37,330 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 15:13:37,363 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:37,363 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:37,370 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:37,370 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:37,376 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:13:37,376 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:37,381 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:13:37,383 - chelstats-mcp - INFO - Getting stats for player: NonExistent in club: 12345 on common-gen5
+2026-04-19 15:13:37,383 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:37,388 - chelstats-mcp - WARNING - Player NonExistent not found in club 12345
+2026-04-19 15:13:37,389 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:37,389 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:37,394 - chelstats-mcp - ERROR - EA API returned status 500: Internal Server Error
+2026-04-19 15:13:46,658 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 15:13:46,658 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 15:13:46,668 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:46,668 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:46,674 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:46,674 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:46,681 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:13:46,681 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:46,686 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:13:46,687 - chelstats-mcp - INFO - Getting stats for player: NonExistent in club: 12345 on common-gen5
+2026-04-19 15:13:46,687 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:46,692 - chelstats-mcp - WARNING - Player NonExistent not found in club 12345
+2026-04-19 15:13:46,694 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:13:46,694 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:13:46,698 - chelstats-mcp - ERROR - EA API returned status 500: Internal Server Error
+2026-04-19 15:18:30,444 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:28:21,161 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:28:28,710 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:28:33,281 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:29:10,196 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:31:06,626 - chelstats-mcp - INFO - Searching for club: Boys II Men on common-gen5
+2026-04-19 15:31:06,631 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Boys II Men'}
+2026-04-19 15:31:06,842 - chelstats-mcp - ERROR - EA API returned status 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;proclubs&#46;ea&#46;com&#47;api&#47;nhl&#47;clubs&#47;search&#63;" on this server.<P>
+Reference&#32;&#35;18&#46;94a12b17&#46;1776623466&#46;3e43eef
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;94a12b17&#46;1776623466&#46;3e43eef</P>
+</BODY>
+</HTML>
+
+2026-04-19 15:37:57,874 - chelstats-mcp - INFO - Getting stats for player: Churppy in club: 20227 on common-gen5
+2026-04-19 15:37:57,879 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '20227'}
+2026-04-19 15:38:33,057 - chelstats-mcp - INFO - Getting stats for player: Churppy in club: 20227 on common-gen5
+2026-04-19 15:38:33,061 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '20227'}
+2026-04-19 15:38:33,194 - chelstats-mcp - WARNING - Player Churppy not found in club 20227
+2026-04-19 15:38:36,235 - chelstats-mcp - INFO - Getting player stats for club ID: 20227 on common-gen5
+2026-04-19 15:38:36,239 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '20227'}
+2026-04-19 15:38:39,411 - chelstats-mcp - INFO - Searching for club: Churppy on common-gen5
+2026-04-19 15:38:39,415 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Churppy'}
+2026-04-19 15:38:43,412 - chelstats-mcp - INFO - Searching for club: Boys II Men on common-gen5
+2026-04-19 15:38:43,416 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Boys II Men'}
+2026-04-19 15:38:46,932 - chelstats-mcp - INFO - Searching for club: The Greats on common-gen5
+2026-04-19 15:38:46,936 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Greats'}
+2026-04-19 15:38:50,842 - chelstats-mcp - INFO - Getting player stats for club ID: 20227 on common-gen5
+2026-04-19 15:38:50,846 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '20227'}
+2026-04-19 15:38:54,310 - chelstats-mcp - INFO - Searching for club: The Greats on common-gen5
+2026-04-19 15:38:54,314 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Greats'}
+2026-04-19 15:40:21,994 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:40:21,997 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:40:26,260 - chelstats-mcp - INFO - Getting stats for player: Churppy in club: 102633 on common-gen5
+2026-04-19 15:40:26,264 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '102633'}
+2026-04-19 15:40:26,904 - chelstats-mcp - INFO - Found stats for player: Churppy
+2026-04-19 15:41:15,100 - chelstats-mcp - INFO - Getting player stats for club ID: 102633 on common-gen5
+2026-04-19 15:41:15,104 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '102633'}
+2026-04-19 15:44:31,211 - chelstats-mcp - INFO - Analyzing performance for player: Player1 in club: 12345
+2026-04-19 15:44:31,211 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:44:31,211 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,220 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:44:31,222 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 15:44:31,222 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 15:44:31,228 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:44:31,228 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,235 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 15:44:31,235 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,241 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:44:31,241 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,246 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:44:31,248 - chelstats-mcp - INFO - Getting stats for player: NonExistent in club: 12345 on common-gen5
+2026-04-19 15:44:31,248 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,253 - chelstats-mcp - WARNING - Player NonExistent not found in club 12345
+2026-04-19 15:44:31,254 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:44:31,254 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:44:31,259 - chelstats-mcp - ERROR - EA API returned status 500: Internal Server Error...
+2026-04-19 15:44:34,315 - chelstats-mcp - INFO - Analyzing performance for player: Churppy in club: 102633
+2026-04-19 15:44:34,317 - chelstats-mcp - INFO - Getting stats for player: Churppy in club: 102633 on common-gen5
+2026-04-19 15:44:34,317 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '102633'}
+2026-04-19 15:44:34,508 - chelstats-mcp - INFO - Found stats for player: Churppy
+2026-04-19 15:45:19,542 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:54:28,261 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:54:46,750 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-19 15:55:24,962 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:55:24,964 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:55:38,446 - chelstats-mcp - INFO - Searching for club: "Steel Panther" on common-gen5
+2026-04-19 15:55:38,447 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': '"Steel Panther"'}
+2026-04-19 15:55:45,897 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:55:45,898 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:56:07,649 - chelstats-mcp - INFO - Getting stats for player: Churppy in club:  on common-gen5
+2026-04-19 15:56:07,650 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': ''}
+2026-04-19 15:56:07,913 - chelstats-mcp - ERROR - EA API returned status 400: Invalid query parameter: clubId...
+2026-04-19 15:56:22,925 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:56:22,926 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:58:44,912 - chelstats-mcp - INFO - Analyzing performance for player: Player1 in club: 12345
+2026-04-19 15:58:44,912 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:58:44,912 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,921 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:58:44,923 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 15:58:44,923 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 15:58:44,929 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:58:44,930 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,936 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 15:58:44,936 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,942 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 15:58:44,942 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,948 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 15:58:44,949 - chelstats-mcp - INFO - Getting stats for player: NonExistent in club: 12345 on common-gen5
+2026-04-19 15:58:44,949 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,954 - chelstats-mcp - WARNING - Player NonExistent not found in club 12345
+2026-04-19 15:58:44,955 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 15:58:44,955 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 15:58:44,960 - chelstats-mcp - ERROR - EA API returned status 500: Internal Server Error...
+2026-04-19 15:58:48,076 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:58:48,078 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:59:07,271 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-19 15:59:07,272 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-19 15:59:31,793 - chelstats-mcp - INFO - Getting stats for player: Churppy in club: 102633 on common-gen5
+2026-04-19 15:59:31,794 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '102633'}
+2026-04-19 15:59:32,343 - chelstats-mcp - INFO - Found stats for player: Churppy
+2026-04-19 17:46:28,349 - chelstats-mcp - INFO - Analyzing performance for player: Player1 in club: 12345
+2026-04-19 17:46:28,350 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 17:46:28,350 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:46:28,361 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 17:46:28,363 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 17:46:28,363 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 17:46:28,370 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Any Team
+2026-04-19 17:46:28,371 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 17:46:28,371 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:46:28,377 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 17:46:28,377 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:46:28,384 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 17:46:28,384 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:46:28,389 - chelstats-mcp - ERROR - EA API returned status 500: Internal Error...
+2026-04-19 17:56:25,895 - chelstats-mcp - INFO - Analyzing performance for player: Player1 in club: 12345
+2026-04-19 17:56:25,895 - chelstats-mcp - INFO - Getting stats for player: Player1 in club: 12345 on common-gen5
+2026-04-19 17:56:25,895 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:56:25,905 - chelstats-mcp - INFO - Found stats for player: Player1
+2026-04-19 17:56:25,907 - chelstats-mcp - INFO - Searching for club: The Great Team on common-gen5
+2026-04-19 17:56:25,907 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'The Great Team'}
+2026-04-19 17:56:25,913 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Any Team
+2026-04-19 17:56:25,914 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 17:56:25,914 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:56:25,921 - chelstats-mcp - INFO - Getting player stats for club ID: 12345 on common-gen5
+2026-04-19 17:56:25,921 - chelstats-mcp - INFO - Fetching from EA API: members/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:56:25,927 - chelstats-mcp - INFO - Getting stats for club ID: 12345 on common-gen5
+2026-04-19 17:56:25,928 - chelstats-mcp - INFO - Fetching from EA API: clubs/stats with params: {'platform': 'common-gen5', 'clubId': '12345'}
+2026-04-19 17:56:25,932 - chelstats-mcp - ERROR - EA API returned status 500: Internal Error...

@@ -1,0 +1,13 @@
+2026-04-21 13:16:06,337 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-21 13:16:53,114 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-21 13:24:59,019 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-21 13:25:11,409 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Steel Panther
+2026-04-21 13:26:10,254 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Steel Panther
+2026-04-21 13:48:10,240 - chelstats-mcp - INFO - Searching for club: Steel Panther on common-gen5
+2026-04-21 13:48:10,242 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Steel Panther'}
+2026-04-21 13:48:18,665 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Steel Panther
+2026-04-21 13:48:44,130 - chelstats-mcp - INFO - Starting CHELStats-MCP server
+2026-04-21 13:48:50,404 - chelstats-mcp - WARNING - Unauthorized search attempt for club: 
+2026-04-21 13:48:57,862 - chelstats-mcp - WARNING - Unauthorized search attempt for club: Steel Panther
+2026-04-21 13:51:49,248 - chelstats-mcp - INFO - Searching for club: Atlantic Clams on common-gen5
+2026-04-21 13:51:49,252 - chelstats-mcp - INFO - Fetching from EA API: clubs/search with params: {'platform': 'common-gen5', 'clubName': 'Atlantic Clams'}
